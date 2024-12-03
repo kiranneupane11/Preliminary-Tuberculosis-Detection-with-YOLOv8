@@ -1,4 +1,4 @@
-# Early-Tuberculosis-Detection-with-YOLOv8
+# Preliminary-Tuberculosis-Detection-with-YOLOv8
 
 ## Output
 
